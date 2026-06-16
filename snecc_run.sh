@@ -13,7 +13,7 @@ echo "============================================================"
 
 CMD="python3 snecc_main_optimized.py \
   --modelName sukhbold_sfho \
-  --modelPath /Users/walu/icecube/snewpy_model_data/sukhbold_sfho/ \
+  --modelPath /Users/walu/icecube/energy_constraints/snecc/data/snewpy_model_data/sukhbold_sfho/ \
   --minMultiplicity 2 \
   --maxMultiplicity 15 \
   --massHierarchy nmo \
